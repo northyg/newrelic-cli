@@ -9,7 +9,7 @@ require (
 	github.com/briandowns/spinner v1.15.0
 	github.com/fatih/color v1.13.0
 	github.com/go-ole/go-ole v1.2.6-0.20210321163835-bac9a21098b9 // indirect
-	github.com/go-task/task/v3 v3.11.0
+	github.com/go-task/task/v3 v3.12.0
 	github.com/google/uuid v1.3.0
 	github.com/hokaccha/go-prettyjson v0.0.0-20211117102719-0474bc63780f
 	github.com/itchyny/gojq v0.12.7
